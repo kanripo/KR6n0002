@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:57.230202
+#+DATE: 2015-08-30 20:54:58.458950
 #+TITLE: 瑜伽師地論釋
 #+PROPERTY: CBETA_ID T30n1580
 #+PROPERTY: ID KR6n0002
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1580
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0002_T_001-0883a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1580[cf.No.1579]¶
-
- 《瑜伽師地論釋》一卷¶
+No. 1580 [cf. No. 1579]¶
+《瑜伽師地論釋》一卷¶
 ¶
 最勝子等諸菩薩造¶
 三藏法師玄奘奉　詔譯¶
@@ -505,4 +504,4 @@ No.1580[cf.No.1579]¶
 餘依攝。無為功德。無餘依攝。故後論言。無餘¶
 依地。五地一分。謂無心地。修所成地。聲聞。¶
 獨覺。及菩薩地。¶
-《瑜伽師地論釋》一卷
+《瑜伽師地論釋》
