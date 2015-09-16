@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 瑜伽師地論釋
+#+DATE: 2015-08-30 20:54:57.460242
+#+PROPERTY: JUAN 0
