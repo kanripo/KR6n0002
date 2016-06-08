@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:54:57.230202
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:36
 #+TITLE: 瑜伽師地論釋
 #+PROPERTY: CBETA_ID T30n1580
 #+PROPERTY: ID KR6n0002
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1580
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0002_T_001-0883a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1580[cf.No.1579]¶
-
- 《瑜伽師地論釋》一卷¶
+No. 1580 [cf. No. 1579]¶
+《瑜伽師地論釋》一卷¶
 ¶
 最勝子等諸菩薩造¶
 三藏法師玄奘奉　詔譯¶
@@ -43,9 +42,9 @@ No.1580[cf.No.1579]¶
 　於此瑜伽大論中
 　我今隨力釋少分¶
 　為令正法常無盡
-　利益安樂諸含識
+　利益安樂諸含識」
 #+END_VERSE
-」¶
+¶
 
 今說此論。所為云何。謂有二緣故說此論。一¶
 為如來無上法教久住世故。二為平等利益¶
@@ -261,9 +260,9 @@ No.1580[cf.No.1579]¶
 　聞思修所立
 　如是具三乘¶
 　有依及無依
-　是名十七地
+　是名十七地」
 #+END_VERSE
-」¶
+¶
 
 釋曰。何緣更問何等十七。雖聞總數。未了別¶
 名。故復為問。嗢拕南者。先略頌答。略集地¶
@@ -505,4 +504,4 @@ No.1580[cf.No.1579]¶
 餘依攝。無為功德。無餘依攝。故後論言。無餘¶
 依地。五地一分。謂無心地。修所成地。聲聞。¶
 獨覺。及菩薩地。¶
-《瑜伽師地論釋》一卷
+《瑜伽師地論釋》
